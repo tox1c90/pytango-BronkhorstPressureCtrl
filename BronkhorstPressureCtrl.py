@@ -105,7 +105,7 @@ class BronkhorstPressureCtrl(Device):
 
 
 def main(args=None, **kwargs):
-    return run((PIC863Mercury,), args=args, **kwargs)
+    return run((BronkhorstPressureCtrl,), args=args, **kwargs)
 
 
 if __name__ == '__main__':
