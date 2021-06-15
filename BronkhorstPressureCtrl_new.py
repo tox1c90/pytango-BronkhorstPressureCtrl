@@ -43,10 +43,16 @@ class BronkhorstPressureCtrl(Device):
     # Attributes
     # ----------
 
-    Position = attribute(
+    Setpoint = attribute(
         dtype='DevDouble',
         access=AttrWriteType.READ_WRITE,
-        unit="units",
+        unit="mbar",
+        memorized=True,
+    )
+    Measure = attribute(
+        dtype='DevDouble',
+        access=AttrWriteType.READ,
+        unit="mbar",
         memorized=True,
     )
 

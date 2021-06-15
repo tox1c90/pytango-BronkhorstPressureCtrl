@@ -1,0 +1,50 @@
+---------------------------
+Mon 24 Aug 2020 04:57:50 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+Ready to accept request
+1598281070 [-1225401648] INFO frontend/bronkhorstpressurectrl/pressure init_device()
+1598281070 [-1225401648] INFO frontend/bronkhorstpressurectrl/pressure port: /dev/ttyBronkhorst
+---------------------------
+Mon 24 Aug 2020 04:58:09 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+Ready to accept request
+1598281096 [-1225164080] INFO frontend/bronkhorstpressurectrl/pressure init_device()
+1598281096 [-1225164080] INFO frontend/bronkhorstpressurectrl/pressure port: /dev/ttyBronkhorst
+---------------------------
+Mon 24 Aug 2020 05:17:11 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+Ready to accept request
+1598282237 [-1225258288] INFO frontend/bronkhorstpressurectrl/pressure init_device()
+1598282237 [-1225258288] INFO frontend/bronkhorstpressurectrl/pressure port: /dev/ttyBronkhorst
+---------------------------
+Mon 24 Aug 2020 05:22:45 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+Ready to accept request
+1598282566 [-1224881456] INFO frontend/bronkhorstpressurectrl/pressure init_device()
+1598282566 [-1224881456] INFO frontend/bronkhorstpressurectrl/pressure port: /dev/ttyBronkhorst
+---------------------------
+Tue 25 Aug 2020 06:51:30 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+The device server BronkhorstPressureCtrl/raspi03 is not defined in database. Exiting!
+---------------------------
+Wed 26 Aug 2020 12:51:58 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+The device server BronkhorstPressureCtrl/raspi03 is not defined in database. Exiting!
+---------------------------
+Thu 27 Aug 2020 03:38:46 PM CEST
+Tangohost:  newton.nano.lab
+ping Tangohost successful!
+starting BronkhorstPressureCtrl device
+The device server BronkhorstPressureCtrl/raspi03 is not defined in database. Exiting!
